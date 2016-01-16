@@ -8,4 +8,3 @@ app/cleaner.py脚本清理无用资源文件。
 
 //TODO:
 cleaner.py添加白名单过滤。
-将cleaner.py打包放入maven服务器，通过dependence引入。
